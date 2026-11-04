@@ -104,7 +104,7 @@ degrees_of_freedom = len(x_values) - len(best_fit_params)
 chi_squared_per_dof = minimum_chi_squared / degrees_of_freedom
 
 
-# =========================
+# =========================ff
 # Parameter uncertainties
 # =========================
 
